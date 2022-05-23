@@ -1,736 +1,736 @@
-rodzaj_egzaminu,poziom_egzaminu,przedmiot,plec,rok,wartosc
-pisemny,podstawowy,język polski,kobiety,2015,67.3
-pisemny,podstawowy,język białoruski,kobiety,2015,77.4
-pisemny,podstawowy,język litewski,kobiety,2015,83.5
-pisemny,podstawowy,język ukraiński,kobiety,2015,77.4
-pisemny,podstawowy,matematyka,kobiety,2015,52.7
-pisemny,podstawowy,język angielski,kobiety,2015,75.8
-pisemny,podstawowy,język niemiecki,kobiety,2015,71.9
-pisemny,podstawowy,język francuski,kobiety,2015,82.1
-pisemny,podstawowy,język rosyjski,kobiety,2015,68.7
-pisemny,podstawowy,język hiszpański,kobiety,2015,83.9
-pisemny,podstawowy,język włoski,kobiety,2015,78.2
-pisemny,podstawowy,język polski,mężczyźni,2015,62.9
-pisemny,podstawowy,język białoruski,mężczyźni,2015,67.8
-pisemny,podstawowy,język litewski,mężczyźni,2015,73.0
-pisemny,podstawowy,język ukraiński,mężczyźni,2015,78.3
-pisemny,podstawowy,matematyka,mężczyźni,2015,58.0
-pisemny,podstawowy,język angielski,mężczyźni,2015,78.2
-pisemny,podstawowy,język niemiecki,mężczyźni,2015,70.7
-pisemny,podstawowy,język francuski,mężczyźni,2015,83.8
-pisemny,podstawowy,język rosyjski,mężczyźni,2015,64.3
-pisemny,podstawowy,język hiszpański,mężczyźni,2015,83.7
-pisemny,podstawowy,język włoski,mężczyźni,2015,79.1
-pisemny,podstawowy,język polski,ogółem,2015,65.7
-pisemny,podstawowy,język białoruski,ogółem,2015,74.0
-pisemny,podstawowy,język litewski,ogółem,2015,77.9
-pisemny,podstawowy,język ukraiński,ogółem,2015,77.8
-pisemny,podstawowy,matematyka,ogółem,2015,54.7
-pisemny,podstawowy,język angielski,ogółem,2015,76.7
-pisemny,podstawowy,język niemiecki,ogółem,2015,71.5
-pisemny,podstawowy,język francuski,ogółem,2015,82.5
-pisemny,podstawowy,język rosyjski,ogółem,2015,67.5
-pisemny,podstawowy,język hiszpański,ogółem,2015,83.9
-pisemny,podstawowy,język włoski,ogółem,2015,78.4
-pisemny,rozszerzony,język polski,kobiety,2015,61.0
-pisemny,rozszerzony,język białoruski,kobiety,2015,100.0
-pisemny,rozszerzony,język litewski,kobiety,2015,77.7
-pisemny,rozszerzony,język ukraiński,kobiety,2015,97.2
-pisemny,rozszerzony,matematyka,kobiety,2015,40.2
-pisemny,rozszerzony,język angielski,kobiety,2015,62.1
-pisemny,rozszerzony,język niemiecki,kobiety,2015,61.7
-pisemny,rozszerzony,język francuski,kobiety,2015,58.6
-pisemny,rozszerzony,język rosyjski,kobiety,2015,65.6
-pisemny,rozszerzony,język hiszpański,kobiety,2015,59.0
-pisemny,rozszerzony,język włoski,kobiety,2015,68.8
-pisemny,rozszerzony,wiedza o społeczeństwie,kobiety,2015,24.7
-pisemny,rozszerzony,geografia,kobiety,2015,40.8
-pisemny,rozszerzony,biologia,kobiety,2015,41.9
-pisemny,rozszerzony,chemia,kobiety,2015,50.7
-pisemny,rozszerzony,historia,kobiety,2015,48.3
-pisemny,rozszerzony,fizyka,kobiety,2015,39.3
-pisemny,rozszerzony,historia muzyki,kobiety,2015,63.8
-pisemny,rozszerzony,historia sztuki,kobiety,2015,45.3
-pisemny,rozszerzony,filozofia,kobiety,2015,64.2
-pisemny,rozszerzony,język łaciński i kultura antyczna,kobiety,2015,52.5
-pisemny,rozszerzony,informatyka,kobiety,2015,43.3
-pisemny,rozszerzony,język kaszubski,kobiety,2015,64.9
-pisemny,rozszerzony,język łemkowski,kobiety,2015,95.0
-pisemny,rozszerzony,język polski,mężczyźni,2015,60.1
-pisemny,rozszerzony,język białoruski,mężczyźni,2015,100.0
-pisemny,rozszerzony,język litewski,mężczyźni,2015,71.8
-pisemny,rozszerzony,język ukraiński,mężczyźni,2015,98.3
-pisemny,rozszerzony,matematyka,mężczyźni,2015,42.3
-pisemny,rozszerzony,język angielski,mężczyźni,2015,64.9
-pisemny,rozszerzony,język niemiecki,mężczyźni,2015,65.3
-pisemny,rozszerzony,język francuski,mężczyźni,2015,58.7
-pisemny,rozszerzony,język rosyjski,mężczyźni,2015,65.8
-pisemny,rozszerzony,język hiszpański,mężczyźni,2015,56.3
-pisemny,rozszerzony,język włoski,mężczyźni,2015,71.5
-pisemny,rozszerzony,wiedza o społeczeństwie,mężczyźni,2015,29.7
-pisemny,rozszerzony,geografia,mężczyźni,2015,42.3
-pisemny,rozszerzony,biologia,mężczyźni,2015,46.5
-pisemny,rozszerzony,chemia,mężczyźni,2015,54.5
-pisemny,rozszerzony,historia,mężczyźni,2015,51.7
-pisemny,rozszerzony,fizyka,mężczyźni,2015,45.7
-pisemny,rozszerzony,historia muzyki,mężczyźni,2015,54.0
-pisemny,rozszerzony,historia sztuki,mężczyźni,2015,43.6
-pisemny,rozszerzony,filozofia,mężczyźni,2015,59.3
-pisemny,rozszerzony,język łaciński i kultura antyczna,mężczyźni,2015,62.4
-pisemny,rozszerzony,informatyka,mężczyźni,2015,46.7
-pisemny,rozszerzony,język kaszubski,mężczyźni,2015,59.0
-pisemny,rozszerzony,język łemkowski,mężczyźni,2015,0.0
-pisemny,rozszerzony,język polski,ogółem,2015,60.8
-pisemny,rozszerzony,język białoruski,ogółem,2015,100.0
-pisemny,rozszerzony,język litewski,ogółem,2015,75.3
-pisemny,rozszerzony,język ukraiński,ogółem,2015,97.7
-pisemny,rozszerzony,matematyka,ogółem,2015,41.3
-pisemny,rozszerzony,język angielski,ogółem,2015,63.2
-pisemny,rozszerzony,język niemiecki,ogółem,2015,62.7
-pisemny,rozszerzony,język francuski,ogółem,2015,58.6
-pisemny,rozszerzony,język rosyjski,ogółem,2015,65.7
-pisemny,rozszerzony,język hiszpański,ogółem,2015,58.5
-pisemny,rozszerzony,język włoski,ogółem,2015,69.5
-pisemny,rozszerzony,wiedza o społeczeństwie,ogółem,2015,26.5
-pisemny,rozszerzony,geografia,ogółem,2015,41.5
-pisemny,rozszerzony,biologia,ogółem,2015,43.0
-pisemny,rozszerzony,chemia,ogółem,2015,51.7
-pisemny,rozszerzony,historia,ogółem,2015,49.8
-pisemny,rozszerzony,fizyka,ogółem,2015,43.8
-pisemny,rozszerzony,historia muzyki,ogółem,2015,59.8
-pisemny,rozszerzony,historia sztuki,ogółem,2015,45.0
-pisemny,rozszerzony,filozofia,ogółem,2015,61.9
-pisemny,rozszerzony,język łaciński i kultura antyczna,ogółem,2015,56.1
-pisemny,rozszerzony,informatyka,ogółem,2015,46.3
-pisemny,rozszerzony,język kaszubski,ogółem,2015,64.3
-pisemny,rozszerzony,język łemkowski,ogółem,2015,95.0
-pisemny,podstawowy,język polski,kobiety,2016,62.0
-pisemny,podstawowy,język białoruski,kobiety,2016,73.5
-pisemny,podstawowy,język litewski,kobiety,2016,83.8
-pisemny,podstawowy,język ukraiński,kobiety,2016,78.4
-pisemny,podstawowy,matematyka,kobiety,2016,55.6
-pisemny,podstawowy,język angielski,kobiety,2016,70.6
-pisemny,podstawowy,język niemiecki,kobiety,2016,73.0
-pisemny,podstawowy,język francuski,kobiety,2016,78.6
-pisemny,podstawowy,język rosyjski,kobiety,2016,64.9
-pisemny,podstawowy,język hiszpański,kobiety,2016,81.8
-pisemny,podstawowy,język włoski,kobiety,2016,80.1
-pisemny,podstawowy,język polski,mężczyźni,2016,55.5
-pisemny,podstawowy,język białoruski,mężczyźni,2016,64.0
-pisemny,podstawowy,język litewski,mężczyźni,2016,81.1
-pisemny,podstawowy,język ukraiński,mężczyźni,2016,70.9
-pisemny,podstawowy,matematyka,mężczyźni,2016,56.7
-pisemny,podstawowy,język angielski,mężczyźni,2016,72.4
-pisemny,podstawowy,język niemiecki,mężczyźni,2016,67.9
-pisemny,podstawowy,język francuski,mężczyźni,2016,79.3
-pisemny,podstawowy,język rosyjski,mężczyźni,2016,58.7
-pisemny,podstawowy,język hiszpański,mężczyźni,2016,82.1
-pisemny,podstawowy,język włoski,mężczyźni,2016,83.6
-pisemny,podstawowy,język polski,ogółem,2016,59.1
-pisemny,podstawowy,język białoruski,ogółem,2016,69.6
-pisemny,podstawowy,język litewski,ogółem,2016,83.0
-pisemny,podstawowy,język ukraiński,ogółem,2016,75.5
-pisemny,podstawowy,matematyka,ogółem,2016,56.1
-pisemny,podstawowy,język angielski,ogółem,2016,71.4
-pisemny,podstawowy,język niemiecki,ogółem,2016,71.1
-pisemny,podstawowy,język francuski,ogółem,2016,78.8
-pisemny,podstawowy,język rosyjski,ogółem,2016,62.8
-pisemny,podstawowy,język hiszpański,ogółem,2016,81.9
-pisemny,podstawowy,język włoski,ogółem,2016,80.9
-pisemny,rozszerzony,język polski,kobiety,2016,61.3
-pisemny,rozszerzony,język białoruski,kobiety,2016,100.0
-pisemny,rozszerzony,język litewski,kobiety,2016,79.9
-pisemny,rozszerzony,język ukraiński,kobiety,2016,90.4
-pisemny,rozszerzony,matematyka,kobiety,2016,32.8
-pisemny,rozszerzony,język angielski,kobiety,2016,55.0
-pisemny,rozszerzony,język niemiecki,kobiety,2016,53.8
-pisemny,rozszerzony,język francuski,kobiety,2016,65.3
-pisemny,rozszerzony,język rosyjski,kobiety,2016,57.2
-pisemny,rozszerzony,język hiszpański,kobiety,2016,58.2
-pisemny,rozszerzony,język włoski,kobiety,2016,65.9
-pisemny,rozszerzony,wiedza o społeczeństwie,kobiety,2016,25.5
-pisemny,rozszerzony,geografia,kobiety,2016,37.9
-pisemny,rozszerzony,biologia,kobiety,2016,36.1
-pisemny,rozszerzony,chemia,kobiety,2016,37.4
-pisemny,rozszerzony,historia,kobiety,2016,41.7
-pisemny,rozszerzony,fizyka,kobiety,2016,41.9
-pisemny,rozszerzony,historia muzyki,kobiety,2016,53.6
-pisemny,rozszerzony,historia sztuki,kobiety,2016,45.9
-pisemny,rozszerzony,filozofia,kobiety,2016,53.7
-pisemny,rozszerzony,język łaciński i kultura antyczna,kobiety,2016,50.2
-pisemny,rozszerzony,informatyka,kobiety,2016,42.8
-pisemny,rozszerzony,język kaszubski,kobiety,2016,64.0
-pisemny,rozszerzony,język łemkowski,kobiety,2016,95.0
-pisemny,rozszerzony,język polski,mężczyźni,2016,58.6
-pisemny,rozszerzony,język białoruski,mężczyźni,2016,100.0
-pisemny,rozszerzony,język litewski,mężczyźni,2016,78.3
-pisemny,rozszerzony,język ukraiński,mężczyźni,2016,75.8
-pisemny,rozszerzony,matematyka,mężczyźni,2016,29.1
-pisemny,rozszerzony,język angielski,mężczyźni,2016,55.2
-pisemny,rozszerzony,język niemiecki,mężczyźni,2016,53.4
-pisemny,rozszerzony,język francuski,mężczyźni,2016,63.7
-pisemny,rozszerzony,język rosyjski,mężczyźni,2016,56.6
-pisemny,rozszerzony,język hiszpański,mężczyźni,2016,59.0
-pisemny,rozszerzony,język włoski,mężczyźni,2016,71.1
-pisemny,rozszerzony,wiedza o społeczeństwie,mężczyźni,2016,28.9
-pisemny,rozszerzony,geografia,mężczyźni,2016,39.9
-pisemny,rozszerzony,biologia,mężczyźni,2016,36.8
-pisemny,rozszerzony,chemia,mężczyźni,2016,42.1
-pisemny,rozszerzony,historia,mężczyźni,2016,42.2
-pisemny,rozszerzony,fizyka,mężczyźni,2016,40.7
-pisemny,rozszerzony,historia muzyki,mężczyźni,2016,45.7
-pisemny,rozszerzony,historia sztuki,mężczyźni,2016,40.4
-pisemny,rozszerzony,filozofia,mężczyźni,2016,44.3
-pisemny,rozszerzony,język łaciński i kultura antyczna,mężczyźni,2016,45.9
-pisemny,rozszerzony,informatyka,mężczyźni,2016,38.5
-pisemny,rozszerzony,język kaszubski,mężczyźni,2016,43.8
-pisemny,rozszerzony,język łemkowski,mężczyźni,2016,0.0
-pisemny,rozszerzony,język polski,ogółem,2016,60.7
-pisemny,rozszerzony,język białoruski,ogółem,2016,100.0
-pisemny,rozszerzony,język litewski,ogółem,2016,79.4
-pisemny,rozszerzony,język ukraiński,ogółem,2016,86.9
-pisemny,rozszerzony,matematyka,ogółem,2016,30.5
-pisemny,rozszerzony,język angielski,ogółem,2016,55.1
-pisemny,rozszerzony,język niemiecki,ogółem,2016,53.7
-pisemny,rozszerzony,język francuski,ogółem,2016,65.0
-pisemny,rozszerzony,język rosyjski,ogółem,2016,57.0
-pisemny,rozszerzony,język hiszpański,ogółem,2016,58.4
-pisemny,rozszerzony,język włoski,ogółem,2016,67.1
-pisemny,rozszerzony,wiedza o społeczeństwie,ogółem,2016,26.9
-pisemny,rozszerzony,geografia,ogółem,2016,38.8
-pisemny,rozszerzony,biologia,ogółem,2016,36.3
-pisemny,rozszerzony,chemia,ogółem,2016,38.7
-pisemny,rozszerzony,historia,ogółem,2016,42.0
-pisemny,rozszerzony,fizyka,ogółem,2016,41.0
-pisemny,rozszerzony,historia muzyki,ogółem,2016,49.9
-pisemny,rozszerzony,historia sztuki,ogółem,2016,44.8
-pisemny,rozszerzony,filozofia,ogółem,2016,48.6
-pisemny,rozszerzony,język łaciński i kultura antyczna,ogółem,2016,48.4
-pisemny,rozszerzony,informatyka,ogółem,2016,38.9
-pisemny,rozszerzony,język kaszubski,ogółem,2016,55.9
-pisemny,rozszerzony,język łemkowski,ogółem,2016,47.5
-pisemny,podstawowy,język polski,kobiety,2017,59.1
-pisemny,podstawowy,język białoruski,kobiety,2017,78.2
-pisemny,podstawowy,język litewski,kobiety,2017,83.4
-pisemny,podstawowy,język ukraiński,kobiety,2017,77.6
-pisemny,podstawowy,matematyka,kobiety,2017,54.0
-pisemny,podstawowy,język angielski,kobiety,2017,70.7
-pisemny,podstawowy,język niemiecki,kobiety,2017,65.7
-pisemny,podstawowy,język francuski,kobiety,2017,77.5
-pisemny,podstawowy,język rosyjski,kobiety,2017,63.4
-pisemny,podstawowy,język hiszpański,kobiety,2017,77.1
-pisemny,podstawowy,język włoski,kobiety,2017,81.4
-pisemny,podstawowy,język polski,mężczyźni,2017,53.1
-pisemny,podstawowy,język białoruski,mężczyźni,2017,68.5
-pisemny,podstawowy,język litewski,mężczyźni,2017,67.3
-pisemny,podstawowy,język ukraiński,mężczyźni,2017,74.7
-pisemny,podstawowy,matematyka,mężczyźni,2017,55.1
-pisemny,podstawowy,język angielski,mężczyźni,2017,72.4
-pisemny,podstawowy,język niemiecki,mężczyźni,2017,63.4
-pisemny,podstawowy,język francuski,mężczyźni,2017,79.5
-pisemny,podstawowy,język rosyjski,mężczyźni,2017,57.5
-pisemny,podstawowy,język hiszpański,mężczyźni,2017,78.3
-pisemny,podstawowy,język włoski,mężczyźni,2017,80.4
-pisemny,podstawowy,język polski,ogółem,2017,56.4
-pisemny,podstawowy,język białoruski,ogółem,2017,73.7
-pisemny,podstawowy,język litewski,ogółem,2017,75.8
-pisemny,podstawowy,język ukraiński,ogółem,2017,76.5
-pisemny,podstawowy,matematyka,ogółem,2017,54.5
-pisemny,podstawowy,język angielski,ogółem,2017,71.5
-pisemny,podstawowy,język niemiecki,ogółem,2017,64.9
-pisemny,podstawowy,język francuski,ogółem,2017,78.1
-pisemny,podstawowy,język rosyjski,ogółem,2017,61.3
-pisemny,podstawowy,język hiszpański,ogółem,2017,77.4
-pisemny,podstawowy,język włoski,ogółem,2017,81.1
-pisemny,rozszerzony,język polski,kobiety,2017,50.4
-pisemny,rozszerzony,język białoruski,kobiety,2017,100.0
-pisemny,rozszerzony,język litewski,kobiety,2017,84.3
-pisemny,rozszerzony,język ukraiński,kobiety,2017,81.4
-pisemny,rozszerzony,matematyka,kobiety,2017,41.6
-pisemny,rozszerzony,język angielski,kobiety,2017,59.5
-pisemny,rozszerzony,język niemiecki,kobiety,2017,56.0
-pisemny,rozszerzony,język francuski,kobiety,2017,60.8
-pisemny,rozszerzony,język rosyjski,kobiety,2017,57.1
-pisemny,rozszerzony,język hiszpański,kobiety,2017,55.5
-pisemny,rozszerzony,język włoski,kobiety,2017,68.3
-pisemny,rozszerzony,wiedza o społeczeństwie,kobiety,2017,25.0
-pisemny,rozszerzony,geografia,kobiety,2017,30.4
-pisemny,rozszerzony,biologia,kobiety,2017,36.5
-pisemny,rozszerzony,chemia,kobiety,2017,39.9
-pisemny,rozszerzony,historia,kobiety,2017,32.0
-pisemny,rozszerzony,fizyka,kobiety,2017,39.8
-pisemny,rozszerzony,historia muzyki,kobiety,2017,53.2
-pisemny,rozszerzony,historia sztuki,kobiety,2017,45.5
-pisemny,rozszerzony,filozofia,kobiety,2017,44.2
-pisemny,rozszerzony,język łaciński i kultura antyczna,kobiety,2017,60.4
-pisemny,rozszerzony,informatyka,kobiety,2017,34.1
-pisemny,rozszerzony,język kaszubski,kobiety,2017,75.5
-pisemny,rozszerzony,język łemkowski,kobiety,2017,90.0
-pisemny,rozszerzony,język polski,mężczyźni,2017,47.6
-pisemny,rozszerzony,język białoruski,mężczyźni,2017,100.0
-pisemny,rozszerzony,język litewski,mężczyźni,2017,65.9
-pisemny,rozszerzony,język ukraiński,mężczyźni,2017,78.6
-pisemny,rozszerzony,matematyka,mężczyźni,2017,34.1
-pisemny,rozszerzony,język angielski,mężczyźni,2017,59.8
-pisemny,rozszerzony,język niemiecki,mężczyźni,2017,54.8
-pisemny,rozszerzony,język francuski,mężczyźni,2017,63.8
-pisemny,rozszerzony,język rosyjski,mężczyźni,2017,56.8
-pisemny,rozszerzony,język hiszpański,mężczyźni,2017,52.4
-pisemny,rozszerzony,język włoski,mężczyźni,2017,67.6
-pisemny,rozszerzony,wiedza o społeczeństwie,mężczyźni,2017,28.5
-pisemny,rozszerzony,geografia,mężczyźni,2017,30.7
-pisemny,rozszerzony,biologia,mężczyźni,2017,37.0
-pisemny,rozszerzony,chemia,mężczyźni,2017,44.8
-pisemny,rozszerzony,historia,mężczyźni,2017,34.5
-pisemny,rozszerzony,fizyka,mężczyźni,2017,40.3
-pisemny,rozszerzony,historia muzyki,mężczyźni,2017,37.9
-pisemny,rozszerzony,historia sztuki,mężczyźni,2017,37.6
-pisemny,rozszerzony,filozofia,mężczyźni,2017,40.0
-pisemny,rozszerzony,język łaciński i kultura antyczna,mężczyźni,2017,71.3
-pisemny,rozszerzony,informatyka,mężczyźni,2017,32.8
-pisemny,rozszerzony,język kaszubski,mężczyźni,2017,70.0
-pisemny,rozszerzony,język łemkowski,mężczyźni,2017,0.0
-pisemny,rozszerzony,język polski,ogółem,2017,49.7
-pisemny,rozszerzony,język białoruski,ogółem,2017,100.0
-pisemny,rozszerzony,język litewski,ogółem,2017,76.7
-pisemny,rozszerzony,język ukraiński,ogółem,2017,80.5
-pisemny,rozszerzony,matematyka,ogółem,2017,36.9
-pisemny,rozszerzony,język angielski,ogółem,2017,59.6
-pisemny,rozszerzony,język niemiecki,ogółem,2017,55.6
-pisemny,rozszerzony,język francuski,ogółem,2017,61.5
-pisemny,rozszerzony,język rosyjski,ogółem,2017,57.0
-pisemny,rozszerzony,język hiszpański,ogółem,2017,54.7
-pisemny,rozszerzony,język włoski,ogółem,2017,68.1
-pisemny,rozszerzony,wiedza o społeczeństwie,ogółem,2017,26.4
-pisemny,rozszerzony,geografia,ogółem,2017,30.6
-pisemny,rozszerzony,biologia,ogółem,2017,36.6
-pisemny,rozszerzony,chemia,ogółem,2017,41.2
-pisemny,rozszerzony,historia,ogółem,2017,33.3
-pisemny,rozszerzony,fizyka,ogółem,2017,40.2
-pisemny,rozszerzony,historia muzyki,ogółem,2017,46.6
-pisemny,rozszerzony,historia sztuki,ogółem,2017,44.0
-pisemny,rozszerzony,filozofia,ogółem,2017,42.0
-pisemny,rozszerzony,język łaciński i kultura antyczna,ogółem,2017,64.5
-pisemny,rozszerzony,informatyka,ogółem,2017,32.9
-pisemny,rozszerzony,język kaszubski,ogółem,2017,73.7
-pisemny,rozszerzony,język łemkowski,ogółem,2017,90.0
-pisemny,podstawowy,język polski,kobiety,2018,58.2
-pisemny,podstawowy,język białoruski,kobiety,2018,73.4
-pisemny,podstawowy,język litewski,kobiety,2018,79.6
-pisemny,podstawowy,język ukraiński,kobiety,2018,78.5
-pisemny,podstawowy,matematyka,kobiety,2018,55.2
-pisemny,podstawowy,język angielski,kobiety,2018,72.4
-pisemny,podstawowy,język niemiecki,kobiety,2018,62.0
-pisemny,podstawowy,język francuski,kobiety,2018,81.8
-pisemny,podstawowy,język rosyjski,kobiety,2018,62.4
-pisemny,podstawowy,język hiszpański,kobiety,2018,78.6
-pisemny,podstawowy,język włoski,kobiety,2018,81.5
-pisemny,podstawowy,język polski,mężczyźni,2018,51.9
-pisemny,podstawowy,język białoruski,mężczyźni,2018,62.5
-pisemny,podstawowy,język litewski,mężczyźni,2018,77.0
-pisemny,podstawowy,język ukraiński,mężczyźni,2018,72.7
-pisemny,podstawowy,matematyka,mężczyźni,2018,56.1
-pisemny,podstawowy,język angielski,mężczyźni,2018,73.9
-pisemny,podstawowy,język niemiecki,mężczyźni,2018,60.3
-pisemny,podstawowy,język francuski,mężczyźni,2018,83.3
-pisemny,podstawowy,język rosyjski,mężczyźni,2018,57.7
-pisemny,podstawowy,język hiszpański,mężczyźni,2018,80.0
-pisemny,podstawowy,język włoski,mężczyźni,2018,82.5
-pisemny,podstawowy,język polski,ogółem,2018,55.3
-pisemny,podstawowy,język białoruski,ogółem,2018,70.0
-pisemny,podstawowy,język litewski,ogółem,2018,78.8
-pisemny,podstawowy,język ukraiński,ogółem,2018,76.4
-pisemny,podstawowy,matematyka,ogółem,2018,55.6
-pisemny,podstawowy,język angielski,ogółem,2018,73.1
-pisemny,podstawowy,język niemiecki,ogółem,2018,61.4
-pisemny,podstawowy,język francuski,ogółem,2018,82.2
-pisemny,podstawowy,język rosyjski,ogółem,2018,60.7
-pisemny,podstawowy,język hiszpański,ogółem,2018,79.0
-pisemny,podstawowy,język włoski,ogółem,2018,81.8
-pisemny,rozszerzony,język polski,kobiety,2018,51.8
-pisemny,rozszerzony,język białoruski,kobiety,2018,100.0
-pisemny,rozszerzony,język litewski,kobiety,2018,87.3
-pisemny,rozszerzony,język ukraiński,kobiety,2018,85.1
-pisemny,rozszerzony,matematyka,kobiety,2018,31.5
-pisemny,rozszerzony,język angielski,kobiety,2018,56.8
-pisemny,rozszerzony,język niemiecki,kobiety,2018,53.7
-pisemny,rozszerzony,język francuski,kobiety,2018,67.3
-pisemny,rozszerzony,język rosyjski,kobiety,2018,59.5
-pisemny,rozszerzony,język hiszpański,kobiety,2018,55.6
-pisemny,rozszerzony,język włoski,kobiety,2018,68.8
-pisemny,rozszerzony,wiedza o społeczeństwie,kobiety,2018,26.6
-pisemny,rozszerzony,geografia,kobiety,2018,30.3
-pisemny,rozszerzony,biologia,kobiety,2018,31.7
-pisemny,rozszerzony,chemia,kobiety,2018,38.4
-pisemny,rozszerzony,historia,kobiety,2018,31.3
-pisemny,rozszerzony,fizyka,kobiety,2018,35.5
-pisemny,rozszerzony,historia muzyki,kobiety,2018,53.7
-pisemny,rozszerzony,historia sztuki,kobiety,2018,45.6
-pisemny,rozszerzony,filozofia,kobiety,2018,42.2
-pisemny,rozszerzony,język łaciński i kultura antyczna,kobiety,2018,53.9
-pisemny,rozszerzony,informatyka,kobiety,2018,37.4
-pisemny,rozszerzony,język kaszubski,kobiety,2018,63.3
-pisemny,rozszerzony,język łemkowski,kobiety,2018,0.0
-pisemny,rozszerzony,język polski,mężczyźni,2018,48.9
-pisemny,rozszerzony,język białoruski,mężczyźni,2018,100.0
-pisemny,rozszerzony,język litewski,mężczyźni,2018,75.5
-pisemny,rozszerzony,język ukraiński,mężczyźni,2018,77.3
-pisemny,rozszerzony,matematyka,mężczyźni,2018,26.8
-pisemny,rozszerzony,język angielski,mężczyźni,2018,57.9
-pisemny,rozszerzony,język niemiecki,mężczyźni,2018,55.6
-pisemny,rozszerzony,język francuski,mężczyźni,2018,65.6
-pisemny,rozszerzony,język rosyjski,mężczyźni,2018,59.1
-pisemny,rozszerzony,język hiszpański,mężczyźni,2018,55.0
-pisemny,rozszerzony,język włoski,mężczyźni,2018,71.7
-pisemny,rozszerzony,wiedza o społeczeństwie,mężczyźni,2018,29.9
-pisemny,rozszerzony,geografia,mężczyźni,2018,30.6
-pisemny,rozszerzony,biologia,mężczyźni,2018,33.0
-pisemny,rozszerzony,chemia,mężczyźni,2018,43.5
-pisemny,rozszerzony,historia,mężczyźni,2018,33.3
-pisemny,rozszerzony,fizyka,mężczyźni,2018,34.9
-pisemny,rozszerzony,historia muzyki,mężczyźni,2018,34.9
-pisemny,rozszerzony,historia sztuki,mężczyźni,2018,38.7
-pisemny,rozszerzony,filozofia,mężczyźni,2018,35.8
-pisemny,rozszerzony,język łaciński i kultura antyczna,mężczyźni,2018,65.2
-pisemny,rozszerzony,informatyka,mężczyźni,2018,33.8
-pisemny,rozszerzony,język kaszubski,mężczyźni,2018,46.5
-pisemny,rozszerzony,język łemkowski,mężczyźni,2018,95.0
-pisemny,rozszerzony,język polski,ogółem,2018,51.1
-pisemny,rozszerzony,język białoruski,ogółem,2018,100.0
-pisemny,rozszerzony,język litewski,ogółem,2018,83.4
-pisemny,rozszerzony,język ukraiński,ogółem,2018,83.6
-pisemny,rozszerzony,matematyka,ogółem,2018,28.6
-pisemny,rozszerzony,język angielski,ogółem,2018,57.3
-pisemny,rozszerzony,język niemiecki,ogółem,2018,54.3
-pisemny,rozszerzony,język francuski,ogółem,2018,67.0
-pisemny,rozszerzony,język rosyjski,ogółem,2018,59.3
-pisemny,rozszerzony,język hiszpański,ogółem,2018,55.5
-pisemny,rozszerzony,język włoski,ogółem,2018,69.6
-pisemny,rozszerzony,wiedza o społeczeństwie,ogółem,2018,27.9
-pisemny,rozszerzony,geografia,ogółem,2018,30.4
-pisemny,rozszerzony,biologia,ogółem,2018,32.0
-pisemny,rozszerzony,chemia,ogółem,2018,39.7
-pisemny,rozszerzony,historia,ogółem,2018,32.4
-pisemny,rozszerzony,fizyka,ogółem,2018,35.0
-pisemny,rozszerzony,historia muzyki,ogółem,2018,45.7
-pisemny,rozszerzony,historia sztuki,ogółem,2018,44.4
-pisemny,rozszerzony,filozofia,ogółem,2018,38.9
-pisemny,rozszerzony,język łaciński i kultura antyczna,ogółem,2018,58.0
-pisemny,rozszerzony,informatyka,ogółem,2018,34.1
-pisemny,rozszerzony,język kaszubski,ogółem,2018,61.9
-pisemny,rozszerzony,język łemkowski,ogółem,2018,95.0
-pisemny,podstawowy,język polski,kobiety,2019,54.6
-pisemny,podstawowy,język białoruski,kobiety,2019,75.3
-pisemny,podstawowy,język litewski,kobiety,2019,77.5
-pisemny,podstawowy,język ukraiński,kobiety,2019,73.0
-pisemny,podstawowy,matematyka,kobiety,2019,58.1
-pisemny,podstawowy,język angielski,kobiety,2019,71.5
-pisemny,podstawowy,język niemiecki,kobiety,2019,61.3
-pisemny,podstawowy,język francuski,kobiety,2019,80.5
-pisemny,podstawowy,język rosyjski,kobiety,2019,67.3
-pisemny,podstawowy,język hiszpański,kobiety,2019,76.4
-pisemny,podstawowy,język włoski,kobiety,2019,81.4
-pisemny,podstawowy,język polski,mężczyźni,2019,48.5
-pisemny,podstawowy,język białoruski,mężczyźni,2019,66.8
-pisemny,podstawowy,język litewski,mężczyźni,2019,73.6
-pisemny,podstawowy,język ukraiński,mężczyźni,2019,68.7
-pisemny,podstawowy,matematyka,mężczyźni,2019,58.8
-pisemny,podstawowy,język angielski,mężczyźni,2019,73.5
-pisemny,podstawowy,język niemiecki,mężczyźni,2019,60.5
-pisemny,podstawowy,język francuski,mężczyźni,2019,82.0
-pisemny,podstawowy,język rosyjski,mężczyźni,2019,59.8
-pisemny,podstawowy,język hiszpański,mężczyźni,2019,78.5
-pisemny,podstawowy,język włoski,mężczyźni,2019,83.1
-pisemny,podstawowy,język polski,ogółem,2019,51.8
-pisemny,podstawowy,język białoruski,ogółem,2019,72.2
-pisemny,podstawowy,język litewski,ogółem,2019,76.3
-pisemny,podstawowy,język ukraiński,ogółem,2019,71.8
-pisemny,podstawowy,matematyka,ogółem,2019,58.4
-pisemny,podstawowy,język angielski,ogółem,2019,72.4
-pisemny,podstawowy,język niemiecki,ogółem,2019,61.1
-pisemny,podstawowy,język francuski,ogółem,2019,80.9
-pisemny,podstawowy,język rosyjski,ogółem,2019,64.7
-pisemny,podstawowy,język hiszpański,ogółem,2019,77.0
-pisemny,podstawowy,język włoski,ogółem,2019,81.9
-pisemny,rozszerzony,język polski,kobiety,2019,56.4
-pisemny,rozszerzony,język białoruski,kobiety,2019,100.0
-pisemny,rozszerzony,język litewski,kobiety,2019,90.9
-pisemny,rozszerzony,język ukraiński,kobiety,2019,83.3
-pisemny,rozszerzony,matematyka,kobiety,2019,42.6
-pisemny,rozszerzony,język angielski,kobiety,2019,56.0
-pisemny,rozszerzony,język niemiecki,kobiety,2019,55.7
-pisemny,rozszerzony,język francuski,kobiety,2019,66.6
-pisemny,rozszerzony,język rosyjski,kobiety,2019,61.9
-pisemny,rozszerzony,język hiszpański,kobiety,2019,54.7
-pisemny,rozszerzony,język włoski,kobiety,2019,71.1
-pisemny,rozszerzony,wiedza o społeczeństwie,kobiety,2019,25.1
-pisemny,rozszerzony,geografia,kobiety,2019,28.4
-pisemny,rozszerzony,biologia,kobiety,2019,32.7
-pisemny,rozszerzony,chemia,kobiety,2019,38.9
-pisemny,rozszerzony,historia,kobiety,2019,34.7
-pisemny,rozszerzony,fizyka,kobiety,2019,44.0
-pisemny,rozszerzony,historia muzyki,kobiety,2019,49.7
-pisemny,rozszerzony,historia sztuki,kobiety,2019,50.1
-pisemny,rozszerzony,filozofia,kobiety,2019,37.5
-pisemny,rozszerzony,język łaciński i kultura antyczna,kobiety,2019,60.0
-pisemny,rozszerzony,informatyka,kobiety,2019,38.8
-pisemny,rozszerzony,język kaszubski,kobiety,2019,51.1
-pisemny,rozszerzony,język łemkowski,kobiety,2019,92.5
-pisemny,rozszerzony,język polski,mężczyźni,2019,51.6
-pisemny,rozszerzony,język białoruski,mężczyźni,2019,100.0
-pisemny,rozszerzony,język litewski,mężczyźni,2019,87.0
-pisemny,rozszerzony,język ukraiński,mężczyźni,2019,60.3
-pisemny,rozszerzony,matematyka,mężczyźni,2019,36.2
-pisemny,rozszerzony,język angielski,mężczyźni,2019,56.5
-pisemny,rozszerzony,język niemiecki,mężczyźni,2019,56.8
-pisemny,rozszerzony,język francuski,mężczyźni,2019,65.7
-pisemny,rozszerzony,język rosyjski,mężczyźni,2019,63.5
-pisemny,rozszerzony,język hiszpański,mężczyźni,2019,50.9
-pisemny,rozszerzony,język włoski,mężczyźni,2019,70.8
-pisemny,rozszerzony,wiedza o społeczeństwie,mężczyźni,2019,29.3
-pisemny,rozszerzony,geografia,mężczyźni,2019,29.3
-pisemny,rozszerzony,biologia,mężczyźni,2019,34.8
-pisemny,rozszerzony,chemia,mężczyźni,2019,44.0
-pisemny,rozszerzony,historia,mężczyźni,2019,38.7
-pisemny,rozszerzony,fizyka,mężczyźni,2019,41.9
-pisemny,rozszerzony,historia muzyki,mężczyźni,2019,40.4
-pisemny,rozszerzony,historia sztuki,mężczyźni,2019,41.1
-pisemny,rozszerzony,filozofia,mężczyźni,2019,35.8
-pisemny,rozszerzony,język łaciński i kultura antyczna,mężczyźni,2019,61.7
-pisemny,rozszerzony,informatyka,mężczyźni,2019,36.3
-pisemny,rozszerzony,język kaszubski,mężczyźni,2019,30.5
-pisemny,rozszerzony,język łemkowski,mężczyźni,2019,78.0
-pisemny,rozszerzony,język polski,ogółem,2019,55.3
-pisemny,rozszerzony,język białoruski,ogółem,2019,100.0
-pisemny,rozszerzony,język litewski,ogółem,2019,89.9
-pisemny,rozszerzony,język ukraiński,ogółem,2019,78.9
-pisemny,rozszerzony,matematyka,ogółem,2019,38.6
-pisemny,rozszerzony,język angielski,ogółem,2019,56.2
-pisemny,rozszerzony,język niemiecki,ogółem,2019,56.1
-pisemny,rozszerzony,język francuski,ogółem,2019,66.4
-pisemny,rozszerzony,język rosyjski,ogółem,2019,62.4
-pisemny,rozszerzony,język hiszpański,ogółem,2019,53.8
-pisemny,rozszerzony,język włoski,ogółem,2019,71.0
-pisemny,rozszerzony,wiedza o społeczeństwie,ogółem,2019,26.8
-pisemny,rozszerzony,geografia,ogółem,2019,28.8
-pisemny,rozszerzony,biologia,ogółem,2019,33.2
-pisemny,rozszerzony,chemia,ogółem,2019,40.2
-pisemny,rozszerzony,historia,ogółem,2019,36.8
-pisemny,rozszerzony,fizyka,ogółem,2019,42.4
-pisemny,rozszerzony,historia muzyki,ogółem,2019,46.3
-pisemny,rozszerzony,historia sztuki,ogółem,2019,48.4
-pisemny,rozszerzony,filozofia,ogółem,2019,36.7
-pisemny,rozszerzony,język łaciński i kultura antyczna,ogółem,2019,60.5
-pisemny,rozszerzony,informatyka,ogółem,2019,36.5
-pisemny,rozszerzony,język kaszubski,ogółem,2019,44.2
-pisemny,rozszerzony,język łemkowski,ogółem,2019,87.7
-pisemny,podstawowy,język polski,kobiety,2020,55.3
-pisemny,podstawowy,język białoruski,kobiety,2020,75.6
-pisemny,podstawowy,język litewski,kobiety,2020,82.7
-pisemny,podstawowy,język ukraiński,kobiety,2020,81.3
-pisemny,podstawowy,matematyka,kobiety,2020,52.4
-pisemny,podstawowy,język angielski,kobiety,2020,69.9
-pisemny,podstawowy,język niemiecki,kobiety,2020,55.1
-pisemny,podstawowy,język francuski,kobiety,2020,84.7
-pisemny,podstawowy,język rosyjski,kobiety,2020,60.9
-pisemny,podstawowy,język hiszpański,kobiety,2020,75.0
-pisemny,podstawowy,język włoski,kobiety,2020,80.4
-pisemny,podstawowy,język polski,mężczyźni,2020,48.4
-pisemny,podstawowy,język białoruski,mężczyźni,2020,64.1
-pisemny,podstawowy,język litewski,mężczyźni,2020,79.8
-pisemny,podstawowy,język ukraiński,mężczyźni,2020,73.0
-pisemny,podstawowy,matematyka,mężczyźni,2020,52.1
-pisemny,podstawowy,język angielski,mężczyźni,2020,72.6
-pisemny,podstawowy,język niemiecki,mężczyźni,2020,55.2
-pisemny,podstawowy,język francuski,mężczyźni,2020,82.7
-pisemny,podstawowy,język rosyjski,mężczyźni,2020,57.8
-pisemny,podstawowy,język hiszpański,mężczyźni,2020,75.7
-pisemny,podstawowy,język włoski,mężczyźni,2020,75.0
-pisemny,podstawowy,język polski,ogółem,2020,52.1
-pisemny,podstawowy,język białoruski,ogółem,2020,71.0
-pisemny,podstawowy,język litewski,ogółem,2020,81.4
-pisemny,podstawowy,język ukraiński,ogółem,2020,77.7
-pisemny,podstawowy,matematyka,ogółem,2020,52.3
-pisemny,podstawowy,język angielski,ogółem,2020,71.1
-pisemny,podstawowy,język niemiecki,ogółem,2020,55.1
-pisemny,podstawowy,język francuski,ogółem,2020,84.1
-pisemny,podstawowy,język rosyjski,ogółem,2020,59.7
-pisemny,podstawowy,język hiszpański,ogółem,2020,75.2
-pisemny,podstawowy,język włoski,ogółem,2020,78.9
-pisemny,rozszerzony,język polski,kobiety,2020,58.1
-pisemny,rozszerzony,język białoruski,kobiety,2020,98.6
-pisemny,rozszerzony,język litewski,kobiety,2020,85.2
-pisemny,rozszerzony,język ukraiński,kobiety,2020,82.6
-pisemny,rozszerzony,matematyka,kobiety,2020,37.6
-pisemny,rozszerzony,język angielski,kobiety,2020,55.7
-pisemny,rozszerzony,język niemiecki,kobiety,2020,56.1
-pisemny,rozszerzony,język francuski,kobiety,2020,60.6
-pisemny,rozszerzony,język rosyjski,kobiety,2020,65.8
-pisemny,rozszerzony,język hiszpański,kobiety,2020,55.7
-pisemny,rozszerzony,język włoski,kobiety,2020,70.7
-pisemny,rozszerzony,wiedza o społeczeństwie,kobiety,2020,27.0
-pisemny,rozszerzony,geografia,kobiety,2020,20.3
-pisemny,rozszerzony,biologia,kobiety,2020,43.0
-pisemny,rozszerzony,chemia,kobiety,2020,36.4
-pisemny,rozszerzony,historia,kobiety,2020,30.9
-pisemny,rozszerzony,fizyka,kobiety,2020,35.4
-pisemny,rozszerzony,historia muzyki,kobiety,2020,53.2
-pisemny,rozszerzony,historia sztuki,kobiety,2020,42.5
-pisemny,rozszerzony,filozofia,kobiety,2020,38.2
-pisemny,rozszerzony,język łaciński i kultura antyczna,kobiety,2020,45.5
-pisemny,rozszerzony,informatyka,kobiety,2020,32.6
-pisemny,rozszerzony,język kaszubski,kobiety,2020,63.2
-pisemny,rozszerzony,język łemkowski,kobiety,2020,0.0
-pisemny,rozszerzony,język polski,mężczyźni,2020,54.7
-pisemny,rozszerzony,język białoruski,mężczyźni,2020,98.8
-pisemny,rozszerzony,język litewski,mężczyźni,2020,82.7
-pisemny,rozszerzony,język ukraiński,mężczyźni,2020,68.3
-pisemny,rozszerzony,matematyka,mężczyźni,2020,31.2
-pisemny,rozszerzony,język angielski,mężczyźni,2020,55.9
-pisemny,rozszerzony,język niemiecki,mężczyźni,2020,55.8
-pisemny,rozszerzony,język francuski,mężczyźni,2020,57.9
-pisemny,rozszerzony,język rosyjski,mężczyźni,2020,68.9
-pisemny,rozszerzony,język hiszpański,mężczyźni,2020,54.0
-pisemny,rozszerzony,język włoski,mężczyźni,2020,71.0
-pisemny,rozszerzony,wiedza o społeczeństwie,mężczyźni,2020,32.5
-pisemny,rozszerzony,geografia,mężczyźni,2020,20.8
-pisemny,rozszerzony,biologia,mężczyźni,2020,43.2
-pisemny,rozszerzony,chemia,mężczyźni,2020,43.5
-pisemny,rozszerzony,historia,mężczyźni,2020,35.6
-pisemny,rozszerzony,fizyka,mężczyźni,2020,34.2
-pisemny,rozszerzony,historia muzyki,mężczyźni,2020,44.0
-pisemny,rozszerzony,historia sztuki,mężczyźni,2020,34.2
-pisemny,rozszerzony,filozofia,mężczyźni,2020,36.5
-pisemny,rozszerzony,język łaciński i kultura antyczna,mężczyźni,2020,53.2
-pisemny,rozszerzony,informatyka,mężczyźni,2020,28.6
-pisemny,rozszerzony,język kaszubski,mężczyźni,2020,64.3
-pisemny,rozszerzony,język łemkowski,mężczyźni,2020,0.0
-pisemny,rozszerzony,język polski,ogółem,2020,57.3
-pisemny,rozszerzony,język białoruski,ogółem,2020,98.6
-pisemny,rozszerzony,język litewski,ogółem,2020,84.4
-pisemny,rozszerzony,język ukraiński,ogółem,2020,76.0
-pisemny,rozszerzony,matematyka,ogółem,2020,33.7
-pisemny,rozszerzony,język angielski,ogółem,2020,55.8
-pisemny,rozszerzony,język niemiecki,ogółem,2020,56.0
-pisemny,rozszerzony,język francuski,ogółem,2020,60.0
-pisemny,rozszerzony,język rosyjski,ogółem,2020,66.9
-pisemny,rozszerzony,język hiszpański,ogółem,2020,55.3
-pisemny,rozszerzony,język włoski,ogółem,2020,70.8
-pisemny,rozszerzony,wiedza o społeczeństwie,ogółem,2020,29.3
-pisemny,rozszerzony,geografia,ogółem,2020,20.5
-pisemny,rozszerzony,biologia,ogółem,2020,43.0
-pisemny,rozszerzony,chemia,ogółem,2020,38.3
-pisemny,rozszerzony,historia,ogółem,2020,33.4
-pisemny,rozszerzony,fizyka,ogółem,2020,34.5
-pisemny,rozszerzony,historia muzyki,ogółem,2020,49.5
-pisemny,rozszerzony,historia sztuki,ogółem,2020,40.9
-pisemny,rozszerzony,filozofia,ogółem,2020,37.4
-pisemny,rozszerzony,język łaciński i kultura antyczna,ogółem,2020,47.7
-pisemny,rozszerzony,informatyka,ogółem,2020,29.0
-pisemny,rozszerzony,język kaszubski,ogółem,2020,63.5
-pisemny,rozszerzony,język łemkowski,ogółem,2020,0.0
-pisemny,podstawowy,język polski,kobiety,2021,58.1
-pisemny,podstawowy,język białoruski,kobiety,2021,72.0
-pisemny,podstawowy,język litewski,kobiety,2021,80.3
-pisemny,podstawowy,język ukraiński,kobiety,2021,84.0
-pisemny,podstawowy,matematyka,kobiety,2021,56.5
-pisemny,podstawowy,język angielski,kobiety,2021,75.4
-pisemny,podstawowy,język niemiecki,kobiety,2021,58.6
-pisemny,podstawowy,język francuski,kobiety,2021,81.5
-pisemny,podstawowy,język rosyjski,kobiety,2021,69.4
-pisemny,podstawowy,język hiszpański,kobiety,2021,75.9
-pisemny,podstawowy,język włoski,kobiety,2021,80.2
-pisemny,podstawowy,język polski,mężczyźni,2021,51.9
-pisemny,podstawowy,język białoruski,mężczyźni,2021,59.7
-pisemny,podstawowy,język litewski,mężczyźni,2021,68.4
-pisemny,podstawowy,język ukraiński,mężczyźni,2021,80.2
-pisemny,podstawowy,matematyka,mężczyźni,2021,56.3
-pisemny,podstawowy,język angielski,mężczyźni,2021,77.4
-pisemny,podstawowy,język niemiecki,mężczyźni,2021,57.9
-pisemny,podstawowy,język francuski,mężczyźni,2021,83.5
-pisemny,podstawowy,język rosyjski,mężczyźni,2021,65.2
-pisemny,podstawowy,język hiszpański,mężczyźni,2021,77.8
-pisemny,podstawowy,język włoski,mężczyźni,2021,82.2
-pisemny,podstawowy,język polski,ogółem,2021,55.2
-pisemny,podstawowy,język białoruski,ogółem,2021,67.0
-pisemny,podstawowy,język litewski,ogółem,2021,75.1
-pisemny,podstawowy,język ukraiński,ogółem,2021,82.7
-pisemny,podstawowy,matematyka,ogółem,2021,56.4
-pisemny,podstawowy,język angielski,ogółem,2021,76.3
-pisemny,podstawowy,język niemiecki,ogółem,2021,58.4
-pisemny,podstawowy,język francuski,ogółem,2021,82.0
-pisemny,podstawowy,język rosyjski,ogółem,2021,67.9
-pisemny,podstawowy,język hiszpański,ogółem,2021,76.4
-pisemny,podstawowy,język włoski,ogółem,2021,80.8
-pisemny,rozszerzony,język polski,kobiety,2021,50.3
-pisemny,rozszerzony,język białoruski,kobiety,2021,100.0
-pisemny,rozszerzony,język litewski,kobiety,2021,87.4
-pisemny,rozszerzony,język ukraiński,kobiety,2021,66.6
-pisemny,rozszerzony,matematyka,kobiety,2021,34.4
-pisemny,rozszerzony,język angielski,kobiety,2021,65.3
-pisemny,rozszerzony,język niemiecki,kobiety,2021,58.2
-pisemny,rozszerzony,język francuski,kobiety,2021,63.9
-pisemny,rozszerzony,język rosyjski,kobiety,2021,74.8
-pisemny,rozszerzony,język hiszpański,kobiety,2021,60.0
-pisemny,rozszerzony,język włoski,kobiety,2021,71.6
-pisemny,rozszerzony,wiedza o społeczeństwie,kobiety,2021,25.1
-pisemny,rozszerzony,geografia,kobiety,2021,33.0
-pisemny,rozszerzony,biologia,kobiety,2021,32.8
-pisemny,rozszerzony,chemia,kobiety,2021,33.3
-pisemny,rozszerzony,historia,kobiety,2021,33.4
-pisemny,rozszerzony,fizyka,kobiety,2021,38.1
-pisemny,rozszerzony,historia muzyki,kobiety,2021,48.8
-pisemny,rozszerzony,historia sztuki,kobiety,2021,44.7
-pisemny,rozszerzony,filozofia,kobiety,2021,29.0
-pisemny,rozszerzony,język łaciński i kultura antyczna,kobiety,2021,48.8
-pisemny,rozszerzony,informatyka,kobiety,2021,40.2
-pisemny,rozszerzony,język kaszubski,kobiety,2021,55.0
-pisemny,rozszerzony,język łemkowski,kobiety,2021,89.0
-pisemny,rozszerzony,język polski,mężczyźni,2021,44.9
-pisemny,rozszerzony,język białoruski,mężczyźni,2021,100.0
-pisemny,rozszerzony,język litewski,mężczyźni,2021,68.1
-pisemny,rozszerzony,język ukraiński,mężczyźni,2021,63.6
-pisemny,rozszerzony,matematyka,mężczyźni,2021,29.3
-pisemny,rozszerzony,język angielski,mężczyźni,2021,64.6
-pisemny,rozszerzony,język niemiecki,mężczyźni,2021,58.7
-pisemny,rozszerzony,język francuski,mężczyźni,2021,62.9
-pisemny,rozszerzony,język rosyjski,mężczyźni,2021,77.4
-pisemny,rozszerzony,język hiszpański,mężczyźni,2021,58.1
-pisemny,rozszerzony,język włoski,mężczyźni,2021,73.0
-pisemny,rozszerzony,wiedza o społeczeństwie,mężczyźni,2021,32.0
-pisemny,rozszerzony,geografia,mężczyźni,2021,33.9
-pisemny,rozszerzony,biologia,mężczyźni,2021,34.5
-pisemny,rozszerzony,chemia,mężczyźni,2021,40.0
-pisemny,rozszerzony,historia,mężczyźni,2021,39.7
-pisemny,rozszerzony,fizyka,mężczyźni,2021,36.9
-pisemny,rozszerzony,historia muzyki,mężczyźni,2021,40.0
-pisemny,rozszerzony,historia sztuki,mężczyźni,2021,40.1
-pisemny,rozszerzony,filozofia,mężczyźni,2021,29.9
-pisemny,rozszerzony,język łaciński i kultura antyczna,mężczyźni,2021,50.8
-pisemny,rozszerzony,informatyka,mężczyźni,2021,37.7
-pisemny,rozszerzony,język kaszubski,mężczyźni,2021,71.7
-pisemny,rozszerzony,język łemkowski,mężczyźni,2021,0.0
-pisemny,rozszerzony,język polski,ogółem,2021,49.1
-pisemny,rozszerzony,język białoruski,ogółem,2021,100.0
-pisemny,rozszerzony,język litewski,ogółem,2021,79.3
-pisemny,rozszerzony,język ukraiński,ogółem,2021,65.4
-pisemny,rozszerzony,matematyka,ogółem,2021,31.4
-pisemny,rozszerzony,język angielski,ogółem,2021,65.0
-pisemny,rozszerzony,język niemiecki,ogółem,2021,58.4
-pisemny,rozszerzony,język francuski,ogółem,2021,63.7
-pisemny,rozszerzony,język rosyjski,ogółem,2021,75.8
-pisemny,rozszerzony,język hiszpański,ogółem,2021,59.6
-pisemny,rozszerzony,język włoski,ogółem,2021,72.0
-pisemny,rozszerzony,wiedza o społeczeństwie,ogółem,2021,27.9
-pisemny,rozszerzony,geografia,ogółem,2021,33.4
-pisemny,rozszerzony,biologia,ogółem,2021,33.2
-pisemny,rozszerzony,chemia,ogółem,2021,35.0
-pisemny,rozszerzony,historia,ogółem,2021,36.6
-pisemny,rozszerzony,fizyka,ogółem,2021,37.2
-pisemny,rozszerzony,historia muzyki,ogółem,2021,45.4
-pisemny,rozszerzony,historia sztuki,ogółem,2021,43.9
-pisemny,rozszerzony,filozofia,ogółem,2021,29.4
-pisemny,rozszerzony,język łaciński i kultura antyczna,ogółem,2021,49.4
-pisemny,rozszerzony,informatyka,ogółem,2021,37.9
-pisemny,rozszerzony,język kaszubski,ogółem,2021,61.3
-pisemny,rozszerzony,język łemkowski,ogółem,2021,89.0
+level,subject,gender,year,value_perc
+Basic,Polish ,Women,2015,67.3
+Basic,Belarusian,Women,2015,77.4
+Basic,Lithuanian ,Women,2015,83.5
+Basic,Ukrainian ,Women,2015,77.4
+Basic,Maths,Women,2015,52.7
+Basic,English,Women,2015,75.8
+Basic,German,Women,2015,71.9
+Basic,French,Women,2015,82.1
+Basic,Russian,Women,2015,68.7
+Basic,Spanish ,Women,2015,83.9
+Basic,Italian ,Women,2015,78.2
+Basic,Polish ,Men,2015,62.9
+Basic,Belarusian,Men,2015,67.8
+Basic,Lithuanian ,Men,2015,73.0
+Basic,Ukrainian ,Men,2015,78.3
+Basic,Maths,Men,2015,58.0
+Basic,English,Men,2015,78.2
+Basic,German,Men,2015,70.7
+Basic,French,Men,2015,83.8
+Basic,Russian,Men,2015,64.3
+Basic,Spanish ,Men,2015,83.7
+Basic,Italian ,Men,2015,79.1
+Basic,Polish ,Altogether,2015,65.7
+Basic,Belarusian,Altogether,2015,74.0
+Basic,Lithuanian ,Altogether,2015,77.9
+Basic,Ukrainian ,Altogether,2015,77.8
+Basic,Maths,Altogether,2015,54.7
+Basic,English,Altogether,2015,76.7
+Basic,German,Altogether,2015,71.5
+Basic,French,Altogether,2015,82.5
+Basic,Russian,Altogether,2015,67.5
+Basic,Spanish ,Altogether,2015,83.9
+Basic,Italian ,Altogether,2015,78.4
+Advanced,Polish ,Women,2015,61.0
+Advanced,Belarusian,Women,2015,100.0
+Advanced,Lithuanian ,Women,2015,77.7
+Advanced,Ukrainian ,Women,2015,97.2
+Advanced,Maths,Women,2015,40.2
+Advanced,English,Women,2015,62.1
+Advanced,German,Women,2015,61.7
+Advanced,French,Women,2015,58.6
+Advanced,Russian,Women,2015,65.6
+Advanced,Spanish ,Women,2015,59.0
+Advanced,Italian ,Women,2015,68.8
+Advanced,Civics,Women,2015,24.7
+Advanced,Geography,Women,2015,40.8
+Advanced,Biology,Women,2015,41.9
+Advanced,Chemistry,Women,2015,50.7
+Advanced,History,Women,2015,48.3
+Advanced,Physics,Women,2015,39.3
+Advanced,History of music,Women,2015,63.8
+Advanced,History of art,Women,2015,45.3
+Advanced,Philosophy,Women,2015,64.2
+Advanced,Latin and ancient culture,Women,2015,52.5
+Advanced,Informatics,Women,2015,43.3
+Advanced,Kashubian,Women,2015,64.9
+Advanced,Lemko ,Women,2015,95.0
+Advanced,Polish ,Men,2015,60.1
+Advanced,Belarusian,Men,2015,100.0
+Advanced,Lithuanian ,Men,2015,71.8
+Advanced,Ukrainian ,Men,2015,98.3
+Advanced,Maths,Men,2015,42.3
+Advanced,English,Men,2015,64.9
+Advanced,German,Men,2015,65.3
+Advanced,French,Men,2015,58.7
+Advanced,Russian,Men,2015,65.8
+Advanced,Spanish ,Men,2015,56.3
+Advanced,Italian ,Men,2015,71.5
+Advanced,Civics,Men,2015,29.7
+Advanced,Geography,Men,2015,42.3
+Advanced,Biology,Men,2015,46.5
+Advanced,Chemistry,Men,2015,54.5
+Advanced,History,Men,2015,51.7
+Advanced,Physics,Men,2015,45.7
+Advanced,History of music,Men,2015,54.0
+Advanced,History of art,Men,2015,43.6
+Advanced,Philosophy,Men,2015,59.3
+Advanced,Latin and ancient culture,Men,2015,62.4
+Advanced,Informatics,Men,2015,46.7
+Advanced,Kashubian,Men,2015,59.0
+Advanced,Lemko ,Men,2015,0.0
+Advanced,Polish ,Altogether,2015,60.8
+Advanced,Belarusian,Altogether,2015,100.0
+Advanced,Lithuanian ,Altogether,2015,75.3
+Advanced,Ukrainian ,Altogether,2015,97.7
+Advanced,Maths,Altogether,2015,41.3
+Advanced,English,Altogether,2015,63.2
+Advanced,German,Altogether,2015,62.7
+Advanced,French,Altogether,2015,58.6
+Advanced,Russian,Altogether,2015,65.7
+Advanced,Spanish ,Altogether,2015,58.5
+Advanced,Italian ,Altogether,2015,69.5
+Advanced,Civics,Altogether,2015,26.5
+Advanced,Geography,Altogether,2015,41.5
+Advanced,Biology,Altogether,2015,43.0
+Advanced,Chemistry,Altogether,2015,51.7
+Advanced,History,Altogether,2015,49.8
+Advanced,Physics,Altogether,2015,43.8
+Advanced,History of music,Altogether,2015,59.8
+Advanced,History of art,Altogether,2015,45.0
+Advanced,Philosophy,Altogether,2015,61.9
+Advanced,Latin and ancient culture,Altogether,2015,56.1
+Advanced,Informatics,Altogether,2015,46.3
+Advanced,Kashubian,Altogether,2015,64.3
+Advanced,Lemko ,Altogether,2015,95.0
+Basic,Polish ,Women,2016,62.0
+Basic,Belarusian,Women,2016,73.5
+Basic,Lithuanian ,Women,2016,83.8
+Basic,Ukrainian ,Women,2016,78.4
+Basic,Maths,Women,2016,55.6
+Basic,English,Women,2016,70.6
+Basic,German,Women,2016,73.0
+Basic,French,Women,2016,78.6
+Basic,Russian,Women,2016,64.9
+Basic,Spanish ,Women,2016,81.8
+Basic,Italian ,Women,2016,80.1
+Basic,Polish ,Men,2016,55.5
+Basic,Belarusian,Men,2016,64.0
+Basic,Lithuanian ,Men,2016,81.1
+Basic,Ukrainian ,Men,2016,70.9
+Basic,Maths,Men,2016,56.7
+Basic,English,Men,2016,72.4
+Basic,German,Men,2016,67.9
+Basic,French,Men,2016,79.3
+Basic,Russian,Men,2016,58.7
+Basic,Spanish ,Men,2016,82.1
+Basic,Italian ,Men,2016,83.6
+Basic,Polish ,Altogether,2016,59.1
+Basic,Belarusian,Altogether,2016,69.6
+Basic,Lithuanian ,Altogether,2016,83.0
+Basic,Ukrainian ,Altogether,2016,75.5
+Basic,Maths,Altogether,2016,56.1
+Basic,English,Altogether,2016,71.4
+Basic,German,Altogether,2016,71.1
+Basic,French,Altogether,2016,78.8
+Basic,Russian,Altogether,2016,62.8
+Basic,Spanish ,Altogether,2016,81.9
+Basic,Italian ,Altogether,2016,80.9
+Advanced,Polish ,Women,2016,61.3
+Advanced,Belarusian,Women,2016,100.0
+Advanced,Lithuanian ,Women,2016,79.9
+Advanced,Ukrainian ,Women,2016,90.4
+Advanced,Maths,Women,2016,32.8
+Advanced,English,Women,2016,55.0
+Advanced,German,Women,2016,53.8
+Advanced,French,Women,2016,65.3
+Advanced,Russian,Women,2016,57.2
+Advanced,Spanish ,Women,2016,58.2
+Advanced,Italian ,Women,2016,65.9
+Advanced,Civics,Women,2016,25.5
+Advanced,Geography,Women,2016,37.9
+Advanced,Biology,Women,2016,36.1
+Advanced,Chemistry,Women,2016,37.4
+Advanced,History,Women,2016,41.7
+Advanced,Physics,Women,2016,41.9
+Advanced,History of music,Women,2016,53.6
+Advanced,History of art,Women,2016,45.9
+Advanced,Philosophy,Women,2016,53.7
+Advanced,Latin and ancient culture,Women,2016,50.2
+Advanced,Informatics,Women,2016,42.8
+Advanced,Kashubian,Women,2016,64.0
+Advanced,Lemko ,Women,2016,95.0
+Advanced,Polish ,Men,2016,58.6
+Advanced,Belarusian,Men,2016,100.0
+Advanced,Lithuanian ,Men,2016,78.3
+Advanced,Ukrainian ,Men,2016,75.8
+Advanced,Maths,Men,2016,29.1
+Advanced,English,Men,2016,55.2
+Advanced,German,Men,2016,53.4
+Advanced,French,Men,2016,63.7
+Advanced,Russian,Men,2016,56.6
+Advanced,Spanish ,Men,2016,59.0
+Advanced,Italian ,Men,2016,71.1
+Advanced,Civics,Men,2016,28.9
+Advanced,Geography,Men,2016,39.9
+Advanced,Biology,Men,2016,36.8
+Advanced,Chemistry,Men,2016,42.1
+Advanced,History,Men,2016,42.2
+Advanced,Physics,Men,2016,40.7
+Advanced,History of music,Men,2016,45.7
+Advanced,History of art,Men,2016,40.4
+Advanced,Philosophy,Men,2016,44.3
+Advanced,Latin and ancient culture,Men,2016,45.9
+Advanced,Informatics,Men,2016,38.5
+Advanced,Kashubian,Men,2016,43.8
+Advanced,Lemko ,Men,2016,0.0
+Advanced,Polish ,Altogether,2016,60.7
+Advanced,Belarusian,Altogether,2016,100.0
+Advanced,Lithuanian ,Altogether,2016,79.4
+Advanced,Ukrainian ,Altogether,2016,86.9
+Advanced,Maths,Altogether,2016,30.5
+Advanced,English,Altogether,2016,55.1
+Advanced,German,Altogether,2016,53.7
+Advanced,French,Altogether,2016,65.0
+Advanced,Russian,Altogether,2016,57.0
+Advanced,Spanish ,Altogether,2016,58.4
+Advanced,Italian ,Altogether,2016,67.1
+Advanced,Civics,Altogether,2016,26.9
+Advanced,Geography,Altogether,2016,38.8
+Advanced,Biology,Altogether,2016,36.3
+Advanced,Chemistry,Altogether,2016,38.7
+Advanced,History,Altogether,2016,42.0
+Advanced,Physics,Altogether,2016,41.0
+Advanced,History of music,Altogether,2016,49.9
+Advanced,History of art,Altogether,2016,44.8
+Advanced,Philosophy,Altogether,2016,48.6
+Advanced,Latin and ancient culture,Altogether,2016,48.4
+Advanced,Informatics,Altogether,2016,38.9
+Advanced,Kashubian,Altogether,2016,55.9
+Advanced,Lemko ,Altogether,2016,47.5
+Basic,Polish ,Women,2017,59.1
+Basic,Belarusian,Women,2017,78.2
+Basic,Lithuanian ,Women,2017,83.4
+Basic,Ukrainian ,Women,2017,77.6
+Basic,Maths,Women,2017,54.0
+Basic,English,Women,2017,70.7
+Basic,German,Women,2017,65.7
+Basic,French,Women,2017,77.5
+Basic,Russian,Women,2017,63.4
+Basic,Spanish ,Women,2017,77.1
+Basic,Italian ,Women,2017,81.4
+Basic,Polish ,Men,2017,53.1
+Basic,Belarusian,Men,2017,68.5
+Basic,Lithuanian ,Men,2017,67.3
+Basic,Ukrainian ,Men,2017,74.7
+Basic,Maths,Men,2017,55.1
+Basic,English,Men,2017,72.4
+Basic,German,Men,2017,63.4
+Basic,French,Men,2017,79.5
+Basic,Russian,Men,2017,57.5
+Basic,Spanish ,Men,2017,78.3
+Basic,Italian ,Men,2017,80.4
+Basic,Polish ,Altogether,2017,56.4
+Basic,Belarusian,Altogether,2017,73.7
+Basic,Lithuanian ,Altogether,2017,75.8
+Basic,Ukrainian ,Altogether,2017,76.5
+Basic,Maths,Altogether,2017,54.5
+Basic,English,Altogether,2017,71.5
+Basic,German,Altogether,2017,64.9
+Basic,French,Altogether,2017,78.1
+Basic,Russian,Altogether,2017,61.3
+Basic,Spanish ,Altogether,2017,77.4
+Basic,Italian ,Altogether,2017,81.1
+Advanced,Polish ,Women,2017,50.4
+Advanced,Belarusian,Women,2017,100.0
+Advanced,Lithuanian ,Women,2017,84.3
+Advanced,Ukrainian ,Women,2017,81.4
+Advanced,Maths,Women,2017,41.6
+Advanced,English,Women,2017,59.5
+Advanced,German,Women,2017,56.0
+Advanced,French,Women,2017,60.8
+Advanced,Russian,Women,2017,57.1
+Advanced,Spanish ,Women,2017,55.5
+Advanced,Italian ,Women,2017,68.3
+Advanced,Civics,Women,2017,25.0
+Advanced,Geography,Women,2017,30.4
+Advanced,Biology,Women,2017,36.5
+Advanced,Chemistry,Women,2017,39.9
+Advanced,History,Women,2017,32.0
+Advanced,Physics,Women,2017,39.8
+Advanced,History of music,Women,2017,53.2
+Advanced,History of art,Women,2017,45.5
+Advanced,Philosophy,Women,2017,44.2
+Advanced,Latin and ancient culture,Women,2017,60.4
+Advanced,Informatics,Women,2017,34.1
+Advanced,Kashubian,Women,2017,75.5
+Advanced,Lemko ,Women,2017,90.0
+Advanced,Polish ,Men,2017,47.6
+Advanced,Belarusian,Men,2017,100.0
+Advanced,Lithuanian ,Men,2017,65.9
+Advanced,Ukrainian ,Men,2017,78.6
+Advanced,Maths,Men,2017,34.1
+Advanced,English,Men,2017,59.8
+Advanced,German,Men,2017,54.8
+Advanced,French,Men,2017,63.8
+Advanced,Russian,Men,2017,56.8
+Advanced,Spanish ,Men,2017,52.4
+Advanced,Italian ,Men,2017,67.6
+Advanced,Civics,Men,2017,28.5
+Advanced,Geography,Men,2017,30.7
+Advanced,Biology,Men,2017,37.0
+Advanced,Chemistry,Men,2017,44.8
+Advanced,History,Men,2017,34.5
+Advanced,Physics,Men,2017,40.3
+Advanced,History of music,Men,2017,37.9
+Advanced,History of art,Men,2017,37.6
+Advanced,Philosophy,Men,2017,40.0
+Advanced,Latin and ancient culture,Men,2017,71.3
+Advanced,Informatics,Men,2017,32.8
+Advanced,Kashubian,Men,2017,70.0
+Advanced,Lemko ,Men,2017,0.0
+Advanced,Polish ,Altogether,2017,49.7
+Advanced,Belarusian,Altogether,2017,100.0
+Advanced,Lithuanian ,Altogether,2017,76.7
+Advanced,Ukrainian ,Altogether,2017,80.5
+Advanced,Maths,Altogether,2017,36.9
+Advanced,English,Altogether,2017,59.6
+Advanced,German,Altogether,2017,55.6
+Advanced,French,Altogether,2017,61.5
+Advanced,Russian,Altogether,2017,57.0
+Advanced,Spanish ,Altogether,2017,54.7
+Advanced,Italian ,Altogether,2017,68.1
+Advanced,Civics,Altogether,2017,26.4
+Advanced,Geography,Altogether,2017,30.6
+Advanced,Biology,Altogether,2017,36.6
+Advanced,Chemistry,Altogether,2017,41.2
+Advanced,History,Altogether,2017,33.3
+Advanced,Physics,Altogether,2017,40.2
+Advanced,History of music,Altogether,2017,46.6
+Advanced,History of art,Altogether,2017,44.0
+Advanced,Philosophy,Altogether,2017,42.0
+Advanced,Latin and ancient culture,Altogether,2017,64.5
+Advanced,Informatics,Altogether,2017,32.9
+Advanced,Kashubian,Altogether,2017,73.7
+Advanced,Lemko ,Altogether,2017,90.0
+Basic,Polish ,Women,2018,58.2
+Basic,Belarusian,Women,2018,73.4
+Basic,Lithuanian ,Women,2018,79.6
+Basic,Ukrainian ,Women,2018,78.5
+Basic,Maths,Women,2018,55.2
+Basic,English,Women,2018,72.4
+Basic,German,Women,2018,62.0
+Basic,French,Women,2018,81.8
+Basic,Russian,Women,2018,62.4
+Basic,Spanish ,Women,2018,78.6
+Basic,Italian ,Women,2018,81.5
+Basic,Polish ,Men,2018,51.9
+Basic,Belarusian,Men,2018,62.5
+Basic,Lithuanian ,Men,2018,77.0
+Basic,Ukrainian ,Men,2018,72.7
+Basic,Maths,Men,2018,56.1
+Basic,English,Men,2018,73.9
+Basic,German,Men,2018,60.3
+Basic,French,Men,2018,83.3
+Basic,Russian,Men,2018,57.7
+Basic,Spanish ,Men,2018,80.0
+Basic,Italian ,Men,2018,82.5
+Basic,Polish ,Altogether,2018,55.3
+Basic,Belarusian,Altogether,2018,70.0
+Basic,Lithuanian ,Altogether,2018,78.8
+Basic,Ukrainian ,Altogether,2018,76.4
+Basic,Maths,Altogether,2018,55.6
+Basic,English,Altogether,2018,73.1
+Basic,German,Altogether,2018,61.4
+Basic,French,Altogether,2018,82.2
+Basic,Russian,Altogether,2018,60.7
+Basic,Spanish ,Altogether,2018,79.0
+Basic,Italian ,Altogether,2018,81.8
+Advanced,Polish ,Women,2018,51.8
+Advanced,Belarusian,Women,2018,100.0
+Advanced,Lithuanian ,Women,2018,87.3
+Advanced,Ukrainian ,Women,2018,85.1
+Advanced,Maths,Women,2018,31.5
+Advanced,English,Women,2018,56.8
+Advanced,German,Women,2018,53.7
+Advanced,French,Women,2018,67.3
+Advanced,Russian,Women,2018,59.5
+Advanced,Spanish ,Women,2018,55.6
+Advanced,Italian ,Women,2018,68.8
+Advanced,Civics,Women,2018,26.6
+Advanced,Geography,Women,2018,30.3
+Advanced,Biology,Women,2018,31.7
+Advanced,Chemistry,Women,2018,38.4
+Advanced,History,Women,2018,31.3
+Advanced,Physics,Women,2018,35.5
+Advanced,History of music,Women,2018,53.7
+Advanced,History of art,Women,2018,45.6
+Advanced,Philosophy,Women,2018,42.2
+Advanced,Latin and ancient culture,Women,2018,53.9
+Advanced,Informatics,Women,2018,37.4
+Advanced,Kashubian,Women,2018,63.3
+Advanced,Lemko ,Women,2018,0.0
+Advanced,Polish ,Men,2018,48.9
+Advanced,Belarusian,Men,2018,100.0
+Advanced,Lithuanian ,Men,2018,75.5
+Advanced,Ukrainian ,Men,2018,77.3
+Advanced,Maths,Men,2018,26.8
+Advanced,English,Men,2018,57.9
+Advanced,German,Men,2018,55.6
+Advanced,French,Men,2018,65.6
+Advanced,Russian,Men,2018,59.1
+Advanced,Spanish ,Men,2018,55.0
+Advanced,Italian ,Men,2018,71.7
+Advanced,Civics,Men,2018,29.9
+Advanced,Geography,Men,2018,30.6
+Advanced,Biology,Men,2018,33.0
+Advanced,Chemistry,Men,2018,43.5
+Advanced,History,Men,2018,33.3
+Advanced,Physics,Men,2018,34.9
+Advanced,History of music,Men,2018,34.9
+Advanced,History of art,Men,2018,38.7
+Advanced,Philosophy,Men,2018,35.8
+Advanced,Latin and ancient culture,Men,2018,65.2
+Advanced,Informatics,Men,2018,33.8
+Advanced,Kashubian,Men,2018,46.5
+Advanced,Lemko ,Men,2018,95.0
+Advanced,Polish ,Altogether,2018,51.1
+Advanced,Belarusian,Altogether,2018,100.0
+Advanced,Lithuanian ,Altogether,2018,83.4
+Advanced,Ukrainian ,Altogether,2018,83.6
+Advanced,Maths,Altogether,2018,28.6
+Advanced,English,Altogether,2018,57.3
+Advanced,German,Altogether,2018,54.3
+Advanced,French,Altogether,2018,67.0
+Advanced,Russian,Altogether,2018,59.3
+Advanced,Spanish ,Altogether,2018,55.5
+Advanced,Italian ,Altogether,2018,69.6
+Advanced,Civics,Altogether,2018,27.9
+Advanced,Geography,Altogether,2018,30.4
+Advanced,Biology,Altogether,2018,32.0
+Advanced,Chemistry,Altogether,2018,39.7
+Advanced,History,Altogether,2018,32.4
+Advanced,Physics,Altogether,2018,35.0
+Advanced,History of music,Altogether,2018,45.7
+Advanced,History of art,Altogether,2018,44.4
+Advanced,Philosophy,Altogether,2018,38.9
+Advanced,Latin and ancient culture,Altogether,2018,58.0
+Advanced,Informatics,Altogether,2018,34.1
+Advanced,Kashubian,Altogether,2018,61.9
+Advanced,Lemko ,Altogether,2018,95.0
+Basic,Polish ,Women,2019,54.6
+Basic,Belarusian,Women,2019,75.3
+Basic,Lithuanian ,Women,2019,77.5
+Basic,Ukrainian ,Women,2019,73.0
+Basic,Maths,Women,2019,58.1
+Basic,English,Women,2019,71.5
+Basic,German,Women,2019,61.3
+Basic,French,Women,2019,80.5
+Basic,Russian,Women,2019,67.3
+Basic,Spanish ,Women,2019,76.4
+Basic,Italian ,Women,2019,81.4
+Basic,Polish ,Men,2019,48.5
+Basic,Belarusian,Men,2019,66.8
+Basic,Lithuanian ,Men,2019,73.6
+Basic,Ukrainian ,Men,2019,68.7
+Basic,Maths,Men,2019,58.8
+Basic,English,Men,2019,73.5
+Basic,German,Men,2019,60.5
+Basic,French,Men,2019,82.0
+Basic,Russian,Men,2019,59.8
+Basic,Spanish ,Men,2019,78.5
+Basic,Italian ,Men,2019,83.1
+Basic,Polish ,Altogether,2019,51.8
+Basic,Belarusian,Altogether,2019,72.2
+Basic,Lithuanian ,Altogether,2019,76.3
+Basic,Ukrainian ,Altogether,2019,71.8
+Basic,Maths,Altogether,2019,58.4
+Basic,English,Altogether,2019,72.4
+Basic,German,Altogether,2019,61.1
+Basic,French,Altogether,2019,80.9
+Basic,Russian,Altogether,2019,64.7
+Basic,Spanish ,Altogether,2019,77.0
+Basic,Italian ,Altogether,2019,81.9
+Advanced,Polish ,Women,2019,56.4
+Advanced,Belarusian,Women,2019,100.0
+Advanced,Lithuanian ,Women,2019,90.9
+Advanced,Ukrainian ,Women,2019,83.3
+Advanced,Maths,Women,2019,42.6
+Advanced,English,Women,2019,56.0
+Advanced,German,Women,2019,55.7
+Advanced,French,Women,2019,66.6
+Advanced,Russian,Women,2019,61.9
+Advanced,Spanish ,Women,2019,54.7
+Advanced,Italian ,Women,2019,71.1
+Advanced,Civics,Women,2019,25.1
+Advanced,Geography,Women,2019,28.4
+Advanced,Biology,Women,2019,32.7
+Advanced,Chemistry,Women,2019,38.9
+Advanced,History,Women,2019,34.7
+Advanced,Physics,Women,2019,44.0
+Advanced,History of music,Women,2019,49.7
+Advanced,History of art,Women,2019,50.1
+Advanced,Philosophy,Women,2019,37.5
+Advanced,Latin and ancient culture,Women,2019,60.0
+Advanced,Informatics,Women,2019,38.8
+Advanced,Kashubian,Women,2019,51.1
+Advanced,Lemko ,Women,2019,92.5
+Advanced,Polish ,Men,2019,51.6
+Advanced,Belarusian,Men,2019,100.0
+Advanced,Lithuanian ,Men,2019,87.0
+Advanced,Ukrainian ,Men,2019,60.3
+Advanced,Maths,Men,2019,36.2
+Advanced,English,Men,2019,56.5
+Advanced,German,Men,2019,56.8
+Advanced,French,Men,2019,65.7
+Advanced,Russian,Men,2019,63.5
+Advanced,Spanish ,Men,2019,50.9
+Advanced,Italian ,Men,2019,70.8
+Advanced,Civics,Men,2019,29.3
+Advanced,Geography,Men,2019,29.3
+Advanced,Biology,Men,2019,34.8
+Advanced,Chemistry,Men,2019,44.0
+Advanced,History,Men,2019,38.7
+Advanced,Physics,Men,2019,41.9
+Advanced,History of music,Men,2019,40.4
+Advanced,History of art,Men,2019,41.1
+Advanced,Philosophy,Men,2019,35.8
+Advanced,Latin and ancient culture,Men,2019,61.7
+Advanced,Informatics,Men,2019,36.3
+Advanced,Kashubian,Men,2019,30.5
+Advanced,Lemko ,Men,2019,78.0
+Advanced,Polish ,Altogether,2019,55.3
+Advanced,Belarusian,Altogether,2019,100.0
+Advanced,Lithuanian ,Altogether,2019,89.9
+Advanced,Ukrainian ,Altogether,2019,78.9
+Advanced,Maths,Altogether,2019,38.6
+Advanced,English,Altogether,2019,56.2
+Advanced,German,Altogether,2019,56.1
+Advanced,French,Altogether,2019,66.4
+Advanced,Russian,Altogether,2019,62.4
+Advanced,Spanish ,Altogether,2019,53.8
+Advanced,Italian ,Altogether,2019,71.0
+Advanced,Civics,Altogether,2019,26.8
+Advanced,Geography,Altogether,2019,28.8
+Advanced,Biology,Altogether,2019,33.2
+Advanced,Chemistry,Altogether,2019,40.2
+Advanced,History,Altogether,2019,36.8
+Advanced,Physics,Altogether,2019,42.4
+Advanced,History of music,Altogether,2019,46.3
+Advanced,History of art,Altogether,2019,48.4
+Advanced,Philosophy,Altogether,2019,36.7
+Advanced,Latin and ancient culture,Altogether,2019,60.5
+Advanced,Informatics,Altogether,2019,36.5
+Advanced,Kashubian,Altogether,2019,44.2
+Advanced,Lemko ,Altogether,2019,87.7
+Basic,Polish ,Women,2020,55.3
+Basic,Belarusian,Women,2020,75.6
+Basic,Lithuanian ,Women,2020,82.7
+Basic,Ukrainian ,Women,2020,81.3
+Basic,Maths,Women,2020,52.4
+Basic,English,Women,2020,69.9
+Basic,German,Women,2020,55.1
+Basic,French,Women,2020,84.7
+Basic,Russian,Women,2020,60.9
+Basic,Spanish ,Women,2020,75.0
+Basic,Italian ,Women,2020,80.4
+Basic,Polish ,Men,2020,48.4
+Basic,Belarusian,Men,2020,64.1
+Basic,Lithuanian ,Men,2020,79.8
+Basic,Ukrainian ,Men,2020,73.0
+Basic,Maths,Men,2020,52.1
+Basic,English,Men,2020,72.6
+Basic,German,Men,2020,55.2
+Basic,French,Men,2020,82.7
+Basic,Russian,Men,2020,57.8
+Basic,Spanish ,Men,2020,75.7
+Basic,Italian ,Men,2020,75.0
+Basic,Polish ,Altogether,2020,52.1
+Basic,Belarusian,Altogether,2020,71.0
+Basic,Lithuanian ,Altogether,2020,81.4
+Basic,Ukrainian ,Altogether,2020,77.7
+Basic,Maths,Altogether,2020,52.3
+Basic,English,Altogether,2020,71.1
+Basic,German,Altogether,2020,55.1
+Basic,French,Altogether,2020,84.1
+Basic,Russian,Altogether,2020,59.7
+Basic,Spanish ,Altogether,2020,75.2
+Basic,Italian ,Altogether,2020,78.9
+Advanced,Polish ,Women,2020,58.1
+Advanced,Belarusian,Women,2020,98.6
+Advanced,Lithuanian ,Women,2020,85.2
+Advanced,Ukrainian ,Women,2020,82.6
+Advanced,Maths,Women,2020,37.6
+Advanced,English,Women,2020,55.7
+Advanced,German,Women,2020,56.1
+Advanced,French,Women,2020,60.6
+Advanced,Russian,Women,2020,65.8
+Advanced,Spanish ,Women,2020,55.7
+Advanced,Italian ,Women,2020,70.7
+Advanced,Civics,Women,2020,27.0
+Advanced,Geography,Women,2020,20.3
+Advanced,Biology,Women,2020,43.0
+Advanced,Chemistry,Women,2020,36.4
+Advanced,History,Women,2020,30.9
+Advanced,Physics,Women,2020,35.4
+Advanced,History of music,Women,2020,53.2
+Advanced,History of art,Women,2020,42.5
+Advanced,Philosophy,Women,2020,38.2
+Advanced,Latin and ancient culture,Women,2020,45.5
+Advanced,Informatics,Women,2020,32.6
+Advanced,Kashubian,Women,2020,63.2
+Advanced,Lemko ,Women,2020,0.0
+Advanced,Polish ,Men,2020,54.7
+Advanced,Belarusian,Men,2020,98.8
+Advanced,Lithuanian ,Men,2020,82.7
+Advanced,Ukrainian ,Men,2020,68.3
+Advanced,Maths,Men,2020,31.2
+Advanced,English,Men,2020,55.9
+Advanced,German,Men,2020,55.8
+Advanced,French,Men,2020,57.9
+Advanced,Russian,Men,2020,68.9
+Advanced,Spanish ,Men,2020,54.0
+Advanced,Italian ,Men,2020,71.0
+Advanced,Civics,Men,2020,32.5
+Advanced,Geography,Men,2020,20.8
+Advanced,Biology,Men,2020,43.2
+Advanced,Chemistry,Men,2020,43.5
+Advanced,History,Men,2020,35.6
+Advanced,Physics,Men,2020,34.2
+Advanced,History of music,Men,2020,44.0
+Advanced,History of art,Men,2020,34.2
+Advanced,Philosophy,Men,2020,36.5
+Advanced,Latin and ancient culture,Men,2020,53.2
+Advanced,Informatics,Men,2020,28.6
+Advanced,Kashubian,Men,2020,64.3
+Advanced,Lemko ,Men,2020,0.0
+Advanced,Polish ,Altogether,2020,57.3
+Advanced,Belarusian,Altogether,2020,98.6
+Advanced,Lithuanian ,Altogether,2020,84.4
+Advanced,Ukrainian ,Altogether,2020,76.0
+Advanced,Maths,Altogether,2020,33.7
+Advanced,English,Altogether,2020,55.8
+Advanced,German,Altogether,2020,56.0
+Advanced,French,Altogether,2020,60.0
+Advanced,Russian,Altogether,2020,66.9
+Advanced,Spanish ,Altogether,2020,55.3
+Advanced,Italian ,Altogether,2020,70.8
+Advanced,Civics,Altogether,2020,29.3
+Advanced,Geography,Altogether,2020,20.5
+Advanced,Biology,Altogether,2020,43.0
+Advanced,Chemistry,Altogether,2020,38.3
+Advanced,History,Altogether,2020,33.4
+Advanced,Physics,Altogether,2020,34.5
+Advanced,History of music,Altogether,2020,49.5
+Advanced,History of art,Altogether,2020,40.9
+Advanced,Philosophy,Altogether,2020,37.4
+Advanced,Latin and ancient culture,Altogether,2020,47.7
+Advanced,Informatics,Altogether,2020,29.0
+Advanced,Kashubian,Altogether,2020,63.5
+Advanced,Lemko ,Altogether,2020,0.0
+Basic,Polish ,Women,2021,58.1
+Basic,Belarusian,Women,2021,72.0
+Basic,Lithuanian ,Women,2021,80.3
+Basic,Ukrainian ,Women,2021,84.0
+Basic,Maths,Women,2021,56.5
+Basic,English,Women,2021,75.4
+Basic,German,Women,2021,58.6
+Basic,French,Women,2021,81.5
+Basic,Russian,Women,2021,69.4
+Basic,Spanish ,Women,2021,75.9
+Basic,Italian ,Women,2021,80.2
+Basic,Polish ,Men,2021,51.9
+Basic,Belarusian,Men,2021,59.7
+Basic,Lithuanian ,Men,2021,68.4
+Basic,Ukrainian ,Men,2021,80.2
+Basic,Maths,Men,2021,56.3
+Basic,English,Men,2021,77.4
+Basic,German,Men,2021,57.9
+Basic,French,Men,2021,83.5
+Basic,Russian,Men,2021,65.2
+Basic,Spanish ,Men,2021,77.8
+Basic,Italian ,Men,2021,82.2
+Basic,Polish ,Altogether,2021,55.2
+Basic,Belarusian,Altogether,2021,67.0
+Basic,Lithuanian ,Altogether,2021,75.1
+Basic,Ukrainian ,Altogether,2021,82.7
+Basic,Maths,Altogether,2021,56.4
+Basic,English,Altogether,2021,76.3
+Basic,German,Altogether,2021,58.4
+Basic,French,Altogether,2021,82.0
+Basic,Russian,Altogether,2021,67.9
+Basic,Spanish ,Altogether,2021,76.4
+Basic,Italian ,Altogether,2021,80.8
+Advanced,Polish ,Women,2021,50.3
+Advanced,Belarusian,Women,2021,100.0
+Advanced,Lithuanian ,Women,2021,87.4
+Advanced,Ukrainian ,Women,2021,66.6
+Advanced,Maths,Women,2021,34.4
+Advanced,English,Women,2021,65.3
+Advanced,German,Women,2021,58.2
+Advanced,French,Women,2021,63.9
+Advanced,Russian,Women,2021,74.8
+Advanced,Spanish ,Women,2021,60.0
+Advanced,Italian ,Women,2021,71.6
+Advanced,Civics,Women,2021,25.1
+Advanced,Geography,Women,2021,33.0
+Advanced,Biology,Women,2021,32.8
+Advanced,Chemistry,Women,2021,33.3
+Advanced,History,Women,2021,33.4
+Advanced,Physics,Women,2021,38.1
+Advanced,History of music,Women,2021,48.8
+Advanced,History of art,Women,2021,44.7
+Advanced,Philosophy,Women,2021,29.0
+Advanced,Latin and ancient culture,Women,2021,48.8
+Advanced,Informatics,Women,2021,40.2
+Advanced,Kashubian,Women,2021,55.0
+Advanced,Lemko ,Women,2021,89.0
+Advanced,Polish ,Men,2021,44.9
+Advanced,Belarusian,Men,2021,100.0
+Advanced,Lithuanian ,Men,2021,68.1
+Advanced,Ukrainian ,Men,2021,63.6
+Advanced,Maths,Men,2021,29.3
+Advanced,English,Men,2021,64.6
+Advanced,German,Men,2021,58.7
+Advanced,French,Men,2021,62.9
+Advanced,Russian,Men,2021,77.4
+Advanced,Spanish ,Men,2021,58.1
+Advanced,Italian ,Men,2021,73.0
+Advanced,Civics,Men,2021,32.0
+Advanced,Geography,Men,2021,33.9
+Advanced,Biology,Men,2021,34.5
+Advanced,Chemistry,Men,2021,40.0
+Advanced,History,Men,2021,39.7
+Advanced,Physics,Men,2021,36.9
+Advanced,History of music,Men,2021,40.0
+Advanced,History of art,Men,2021,40.1
+Advanced,Philosophy,Men,2021,29.9
+Advanced,Latin and ancient culture,Men,2021,50.8
+Advanced,Informatics,Men,2021,37.7
+Advanced,Kashubian,Men,2021,71.7
+Advanced,Lemko ,Men,2021,0.0
+Advanced,Polish ,Altogether,2021,49.1
+Advanced,Belarusian,Altogether,2021,100.0
+Advanced,Lithuanian ,Altogether,2021,79.3
+Advanced,Ukrainian ,Altogether,2021,65.4
+Advanced,Maths,Altogether,2021,31.4
+Advanced,English,Altogether,2021,65.0
+Advanced,German,Altogether,2021,58.4
+Advanced,French,Altogether,2021,63.7
+Advanced,Russian,Altogether,2021,75.8
+Advanced,Spanish ,Altogether,2021,59.6
+Advanced,Italian ,Altogether,2021,72.0
+Advanced,Civics,Altogether,2021,27.9
+Advanced,Geography,Altogether,2021,33.4
+Advanced,Biology,Altogether,2021,33.2
+Advanced,Chemistry,Altogether,2021,35.0
+Advanced,History,Altogether,2021,36.6
+Advanced,Physics,Altogether,2021,37.2
+Advanced,History of music,Altogether,2021,45.4
+Advanced,History of art,Altogether,2021,43.9
+Advanced,Philosophy,Altogether,2021,29.4
+Advanced,Latin and ancient culture,Altogether,2021,49.4
+Advanced,Informatics,Altogether,2021,37.9
+Advanced,Kashubian,Altogether,2021,61.3
+Advanced,Lemko ,Altogether,2021,89.0
