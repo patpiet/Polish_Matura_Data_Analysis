@@ -26,7 +26,7 @@ Despite that fact I could find some insights:
 The average results have not changed much over the years. In fact it was stable, with slight downtrend.
 It is worth to notice that the gap between Advanced and Basic level increased. In 2015 it was about ~13%, however in 2021 it increased to about 20%!
 
-![alt text](Visualizations/Scores_over_years.PNG)
+![alt text](Visualizations/Scores_over_years_updated.PNG)
 
 As there was so many subjects - I grouped them into 'Language', 'Humanistic' and 'Science' categories. I have taken into account only advanced level as there was not many Science subjects on basic level.\
 It turns out that students feel significantly more comfortable with languages, than humanistic or science subjects.\
