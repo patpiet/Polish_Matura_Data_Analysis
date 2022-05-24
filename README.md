@@ -45,5 +45,6 @@ On advanced level men kept their position with English, but got outscored in mat
 
 # Data Cleaning Process
 I have deleted the columns that were not useful in anyway. Also, casted the numerical values to float as in dataset it appeared as string.\
-After that I have translated the columns and values using lambda functions and **Itranslate** library.
+After that I have translated the columns and values using lambda functions and **Itranslate** library.\
+I have also created the Pass Rating column.
 
