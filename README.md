@@ -7,7 +7,7 @@
 # Code and Resources Used
 * **Python Version**: 3.9
 * **Packages**: pandas, numpy, matplotlib, plotly, Dash, json, itranslate
-* * **For Requirements:** ```pip install -r requirements.txt```
+* **For Requirements:** ```pip install -r requirements.txt```
 * **Polish Map Geojson**: https://github.com/ppatrzyk/polska-geojson
 
 **Bar Chart Dashboard**
